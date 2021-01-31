@@ -1,0 +1,26 @@
+{
+  "name": "show-npm-dependencies",
+  "version": "0.1.0",
+  "description": "display the packages used in a project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideaaaal/show-npm-dependencies.git"
+  },
+  "keywords": [
+    "packages",
+    "npm",
+    "dependencies",
+    "package",
+    "dependency"
+  ],
+  "author": "ideaaaal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ideaaaal/show-npm-dependencies/issues"
+  },
+  "homepage": "https://github.com/ideaaaal/show-npm-dependencies#readme"
+}
